@@ -64,6 +64,8 @@ tags:
 例如， Fortinet FortiGate Add-On for Splunk
 
 
-具体的分享会在Youtube频道中更新，有任何问题欢迎在youtube回复中提问，如果不方面上youtube，可以邮件给我willhktube@gmail.com
+具体的分享会在YouTube频道中更新，有任何问题欢迎在YouTube回复中提问
+YouTube 链接是https://youtu.be/b1EG7uQ1yIc
+如果不方面上YouTube ，可以邮件给我willhktube@gmail.com 
 
 谢谢。
