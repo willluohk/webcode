@@ -63,6 +63,7 @@ tags:
 “ Splunk应用程序不包含完整的UI，通常提供一些自定义配置或数据输入。”
 例如， Fortinet FortiGate Add-On for Splunk
 
+---
 
 具体的分享会在YouTube频道中更新，有任何问题欢迎在YouTube回复中提问
 YouTube 链接是https://youtu.be/b1EG7uQ1yIc

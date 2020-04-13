@@ -57,7 +57,7 @@ tags:
 
 ![](../images/splunk_common_ports.png)
 
-##官方性能建议
+## 官方性能建议
 |                          | < 2GB/day           | 2 to 300 GB/day     | 300 to 600 GB/day | 600GB to 1TB/day | 1 to 2TB/day    | 2 to 3TB/day    |
 |--------------------------|---------------------|---------------------|-------------------|------------------|-----------------|-----------------|
 | Total Users: less than 4 | 1 combined instance | 1 combined instance | 1 Search Head, 2 Indexers   | 1 Search Head, 3 Indexers     | 1 Search Head,7 Indexers     | 1 Search Head, 10 Indexers    |
@@ -66,3 +66,12 @@ tags:
 | Total Users: up to 24    | 1 Search Head,  1 Indexers    | 1 Search Head,  2 Indexers    | 2 Search Heads, 3 Indexers     | 2 Search Heads, 6 Indexers  | 2 Search Heads, 12 Indexers | 3 Search Heads, 18 Indexers|
 | Total Users: up to 48    | 1 Search Head,  2 Indexers    | 1 Search Head,  2 Indexers     | 2 Search Heads, 4 Indexers   | 2 Search Heads,7 Indexers | 3 Search Heads, 14 Indexers | 3 Search Heads,21 Indexers |
 
+
+
+---
+
+具体的分享会在YouTube频道中更新，有任何问题欢迎在YouTube回复中提问
+YouTube 链接是https://youtu.be/Qw5T_VbfNnE
+如果不方便上YouTube ，可以邮件给我willhktube@gmail.com 
+
+Cheers.
