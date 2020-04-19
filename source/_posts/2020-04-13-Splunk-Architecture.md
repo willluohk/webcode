@@ -1,7 +1,7 @@
 ---
 title: Splunk架构分享 | Splunk Architecture
 date: 2020-04-13 20:11:51
-tags:
+tags: Splunk
 ---
 
 今天准备跟大家分享一下Splunk的架构

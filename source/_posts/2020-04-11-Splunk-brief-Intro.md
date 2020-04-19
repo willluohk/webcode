@@ -1,7 +1,7 @@
 ---
 title: Splunk简单介绍 | Splunk brief Intro
 date: 2020-04-11 21:46:27
-tags:
+tags: Splunk
 ---
 
 今天准备做一个Splunk的分享，不会具体到配置方面的内容，主要是简单介绍一下Splunk这个平台到底是在做什么，对用户有什么样的帮助。
