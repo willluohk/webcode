@@ -4,7 +4,9 @@ date: 2020-06-16 20:50:45
 tags: Splunk
 ---
 
+今天准备跟大家分享一下splunk indexer clustering 的信息
 
+![](/source/images/splunk_indexer_cluster.png)
 
 Splunk indexer clustering 需要注意的几个点
 
